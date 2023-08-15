@@ -31,3 +31,7 @@ For more: sinanozcelik.com
 
 ## Sample File
 ![C# File Encryption Application](img/img6.png)
+
+Contact e-mail for any question: info@sinanozcelik.com
+
+For more: sinanozcelik.com
