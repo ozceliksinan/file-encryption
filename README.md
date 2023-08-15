@@ -1,4 +1,4 @@
-# File Encryption Application
+## File Encryption Application
 
 It is based on C# and encrypts the files with the password you specify, and if the encrypted file is to be decrypted later, the encryption algorithm applied with the decryptor step is decrypted.
 
